@@ -12,13 +12,7 @@
 
 # 📊 GitHub Stats:
 
-<<<<<<< HEAD
-![](https://github-readme-stats.vercel.app/api?username=yongkisatrias&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yongkisatrias&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yongkisatrias&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yongkisatrias&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=yongkisatrias&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
