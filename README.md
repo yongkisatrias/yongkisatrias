@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🌱 I’m currently learning <b>Fullstack Web & Mobile Developer in Pijar Camp Bootcamp.</b><br>
+🌱 I’m currently learning <b>Fullstack Web & Mobile Developer</b> <b>in Pijar Camp Bootcamp.</b><br>
 📫 How to reach me <b>yongkisatrias@gmail.com</b>
 
 ## 🌐 Socials:
