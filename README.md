@@ -16,4 +16,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yongkisatrias&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yongkisatrias&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
